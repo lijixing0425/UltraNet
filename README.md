@@ -8,8 +8,8 @@ The current version is an unorganized draft, which can be used to train DBPB mod
 
 you can train the model by run:
 
-  python main.py
+  # python main.py
   
 and test model by run:
 
-  python predict_supersound.py
+  # python predict_supersound.py
