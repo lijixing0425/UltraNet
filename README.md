@@ -4,7 +4,7 @@ Abstract—Ultrasound image segmentation is an essential tool for recognizing di
 
 # The project code will upload once the paper acctept!
 
-The current version is an unorganized draft, which can be used to train DBPB model. 
+The current version is an unorganized draft, which can be used to train DBPB model with dataset from e-space (mmu.ac.uk). 
 
 you can train the model by running:
 
@@ -13,3 +13,5 @@ you can train the model by running:
 and test model by running:
 
   # python predict_supersound.py
+  
+The context module can be found in the file 'module.py', which is utilized in the second stage of UltraNet
