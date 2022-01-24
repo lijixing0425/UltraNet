@@ -6,10 +6,10 @@ Abstract—Ultrasound image segmentation is an essential tool for recognizing di
 
 The current version is an unorganized draft, which can be used to train DBPB model. 
 
-you can train the model by run:
+you can train the model by running:
 
   # python main.py
   
-and test model by run:
+and test model by running:
 
   # python predict_supersound.py
